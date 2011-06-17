@@ -1,0 +1,3 @@
+Katalog o nazwiee Baza nale¿y skopiowaæ 
+bezpoœrednio  na dysk C:
+nastêpnie zainstalowaæ program z pliku SETUP
